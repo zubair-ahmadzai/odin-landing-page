@@ -1,0 +1,1 @@
+Simple landing page styled using Flexbox.
