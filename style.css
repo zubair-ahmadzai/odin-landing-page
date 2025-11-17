@@ -123,3 +123,28 @@ a {
     max-width: 208px;
     text-align: center;
 }
+
+.quote {
+    box-sizing: border-box;
+    height: 600px;
+    padding: 0 180px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+}
+
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    text-align: right;
+    color: #1F2937;
+    font-size: 18px;
+    font-weight: 800;
+}
